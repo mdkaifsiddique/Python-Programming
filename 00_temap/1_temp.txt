@@ -1,0 +1,17 @@
+what is programming?
+
+why we need programming laanguages?
+
+0, 1
+
+
+high level language - English , hindi, etc
+            |
+            |
+    Translator (Compiler || Interprator)
+        - Compiler- scan all code at once
+        - Interprator- Scan (read) line by line
+            |
+            |
+low level laanguage - machine understanbale (binary-0 1) -- execute
+
