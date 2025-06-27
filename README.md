@@ -18,8 +18,8 @@ Lets learn Python
 
 ## 3.Data Types / Object Types
 
-1. Number : 1234, 3.123, 4+2j, 0b111, Decimal(), Fraction()
-2. String : 'spam', "Bob's", b'a/x01c', u'sp\xc4m'
+I. Number : 1234, 3.123, 4+2j, 0b111, Decimal(), Fraction()
+ll. String : 'spam', "Bob's", b'a/x01c', u'sp\xc4m'
 
 
      () parenthesis
