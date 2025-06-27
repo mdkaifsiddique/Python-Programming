@@ -19,7 +19,7 @@ Lets learn Python
 ## 3.Data Types / Object Types
 
 I. Number : 1234, 3.123, 4+2j, 0b111, Decimal(), Fraction()
-ll. String : 'spam', "Bob's", b'a/x01c', u'sp\xc4m'
+ii. String : 'spam', "Bob's", b'a/x01c', u'sp\xc4m'
 
 
      () parenthesis
@@ -32,21 +32,21 @@ ll. String : 'spam', "Bob's", b'a/x01c', u'sp\xc4m'
     as in tuple 1 is 0th value
 
 
-4. List : [1, [2, 'three'], 4.5], list(rang(10))
-5. Tuple : (1, 'spam', 4, 'U'), tuple('spam'), namedtuple
-6. Dictionary : {'food': 'spam', 'taste': 'yum'}, dict(hours=10)
+iii. List : [1, [2, 'three'], 4.5], list(rang(10))
+iv. Tuple : (1, 'spam', 4, 'U'), tuple('spam'), namedtuple
+v. Dictionary : {'food': 'spam', 'taste': 'yum'}, dict(hours=10)
 
 
      in dict: 'food' is key & 'spam' is value
 
 
-7. Set : set('abc'), {'a', 'b', 'c'}
+vi. Set : set('abc'), {'a', 'b', 'c'}
 
-8. File : open('eggs.txt'), open(r'C:\ham.bin', 'wb')
+vii. File : open('eggs.txt'), open(r'C:\ham.bin', 'wb')
 
-9. Boolean : True, False
-10. None : None
-11. Functions, modules, classes
+viii. Boolean : True, False
+ix. None : None
+x. Functions, modules, classes
 
-12. Advance : Decorators, Generators, Iterators, Metaprogramming
+xi. Advance : Decorators, Generators, Iterators, Metaprogramming
   
