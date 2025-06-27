@@ -23,26 +23,30 @@ Lets learn Python
 
 
      () parenthesis
+   
      {} curly braces
+   
      [] bracket
    
    in list & tuple start: 0th term,1st term....
     as in tuple 1 is 0th value
 
 
-3. List : [1, [2, 'three'], 4.5], list(rang(10))
-4. Tuple : (1, 'spam', 4, 'U'), tuple('spam'), namedtuple
-5. Dictionary : {'food': 'spam', 'taste': 'yum'}, dict(hours=10)
+4. List : [1, [2, 'three'], 4.5], list(rang(10))
+5. Tuple : (1, 'spam', 4, 'U'), tuple('spam'), namedtuple
+6. Dictionary : {'food': 'spam', 'taste': 'yum'}, dict(hours=10)
+
 
      in dict: 'food' is key & 'spam' is value
 
-6. Set : set('abc'), {'a', 'b', 'c'}
 
-7. File : open('eggs.txt'), open(r'C:\ham.bin', 'wb')
+7. Set : set('abc'), {'a', 'b', 'c'}
 
-8. Boolean : True, False
-9. None : None
-10. Functions, modules, classes
+8. File : open('eggs.txt'), open(r'C:\ham.bin', 'wb')
 
-11. Advance : Decorators, Generators, Iterators, Metaprogramming
+9. Boolean : True, False
+10. None : None
+11. Functions, modules, classes
+
+12. Advance : Decorators, Generators, Iterators, Metaprogramming
   
