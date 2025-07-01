@@ -1,0 +1,123 @@
+indentationError>>>> Tab(solve)
+
+
+
+
+
+
+
+
+PS C:\Users\lenovo\OneDrive\Desktop\Learning\Chai.aur.python> python
+Python 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+>>> 
+>>> print("alif")
+alif
+>>> 2/4
+0.5
+>>> a=2
+>>> b=0
+>>> a+b
+2
+>>> alif*3
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'alif' is not defined
+>>> "alif"*3
+'alifalifalif'
+>>> score=75
+>>> 
+>>> score
+75
+>>> import os
+>>> os.getcwd()
+'C:\\Users\\lenovo\\OneDrive\\Desktop\\Learning\\Chai.aur.python'
+>>>
+>>> for a in "alifstatistics"
+  File "<stdin>", line 1
+    for a in "alifstatistics"
+                             ^
+SyntaxError: expected ':'
+>>> for a in "alifstatistics":
+...     print(a)
+... 
+a
+l
+i
+f
+s
+t
+a
+t
+i
+s
+t
+i
+c
+s
+>>>
+ *  History restored 
+
+PS C:\Users\lenovo\OneDrive\Desktop\Learning\Chai.aur.python>
+
+PS C:\Users\lenovo\OneDrive\Desktop\Learning\Chai.aur.python>
+PS C:\Users\lenovo\OneDrive\Desktop\Learning\Chai.aur.python>
+
+PS C:\Users\lenovo\OneDrive\Desktop\Learning\Chai.aur.python>
+PS C:\Users\lenovo\OneDrive\Desktop\Learning\Chai.aur.python>
+PS C:\Users\lenovo\OneDrive\Desktop\Learning\Chai.aur.python> python
+Python 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import.sys
+  File "<stdin>", line 1
+    import.sys
+          ^
+SyntaxError: invalid syntax
+>>> import sys
+>>> sys.platform
+'win32'
+>>> import hello_chai
+hello mr_alif
+alif statistics
+>>> hello_chai.chai("kaif")
+kaif
+>>>
+>>> hello_chai.write_1st
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: module 'hello_chai' has no attribute 'write_1st'
+>>> 
+>>> from importlib import reload
+>>> reload hello_chai
+  File "<stdin>", line 1
+    reload hello_chai
+           ^^^^^^^^^^
+SyntaxError: invalid syntax
+>>> 
+>>> reload  
+<function reload at 0x0000021DA7B1DEE0>
+>>>
+>>> 
+>>> reload (hello_chai)
+hello mr_alif
+alif statistics
+<module 'hello_chai' from 'C:\\Users\\lenovo\\OneDrive\\Desktop\\Learning\\Chai.aur.python\\hello_chai.py'>
+>>> hello_chai.write_1st
+'kaif'
+>>> write_2nd
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'write_2nd' is not defined
+>>> heello_chai.write_1st+write_2nd
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'heello_chai' is not defined. Did you mean: 'hello_chai'?
+>>> hello_chai.write_1st+write_2nd
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'write_2nd' is not defined
+>>> hello_chai.write_1st+hello_chai.write_2nd+hello_chai.write_3rd
+'kaifalifsiddique'
+>>>
+>>>   
