@@ -1,6 +1,9 @@
 # Python-Programming
 Lets learn Python
 
+### References:
+(w3school)[https://www.w3schools.com/python/python_variables.asp]
+
 ## git commands:
 - git add .
 - git commit -m "your commit message"

@@ -12,3 +12,6 @@ marital_status = False
 print(first_name+' '+last_name, age, marital_status)
 
 # print(f'my name is {first_name}{last_name} and i am {age} year old, and my marital_status is {marital_status}')
+
+import random 
+print(random.randint(100, 500))
