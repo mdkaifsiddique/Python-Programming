@@ -15,3 +15,11 @@ print(first_name+' '+last_name, age, marital_status)
 
 import random 
 print(random.randint(100, 500))
+
+repr('alif')
+print (repr('alif'))
+
+str('alif')
+print(str('alif'))
+
+print('alif')
