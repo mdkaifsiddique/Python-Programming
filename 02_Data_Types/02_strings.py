@@ -83,5 +83,8 @@ alif = "alif statistics"
 print("statistics" in alif)     #True
 print("Statistics" in alif)     #False
 
-
+if "statistics" in alif:
+        print("Yes,'statistics' is present")
+        print("Yes,'Statistics' is present")
+        print("Yes,'kaif' is present")
 
