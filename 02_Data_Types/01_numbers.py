@@ -6,6 +6,7 @@
 # octa - 0o; base 8
 # hexa - 0x; base 16
 # binary- 0b; base 2
+# set()- empty set
 num1 = 10
 num2 = 20
 
@@ -43,6 +44,17 @@ result  = num1 % 3
 print(f'the remainder of 10/3 is : {result}')
 
 (num1, num2)
+
+#Decimal values
+print(0.1+0.1+0.1) #0.3000000000000004
+print(0.1+0.1+0.1-0.1)
+from decimal import Decimal
+print(Decimal('0.1')+Decimal('0.1')) #0.2
+# print(Decimal('0.1')+Decimal('0.1')+Decimal('0.1')-Decimal(0.3))
+
+#boolian
+True == 1 #True
+False == 0 #False
 
 # compare two values:(==){equal}
 #                    (!=){not equal}
@@ -84,4 +96,20 @@ print(f'the integer value 100 in hexa {(int('100', 16))}') #connvert int to hex,
 import random
 print(random.random()) #give the random number between 0 to 1
 print(random.randint(1, 10)) #give the random number between 0 to 10
+
+l1 = ['md', 'kaif', 'alif', 'siddique']
+print(random.choice(l1))
+print(random.shuffle(l1))
+print(l1)                   
+
+#set
+setone = {1,2,3,4}
+print(setone & {1, 3}) #intersection
+print(setone & {1, 3}) #intersection
+print(f'union of setone {setone | {1, 3, 7}}') #union
+print(setone | {1, 3}) #union
+print(setone - {1, 2, 3, 4}) 
+
+
+
 
