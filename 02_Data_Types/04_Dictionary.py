@@ -55,3 +55,17 @@ print(thisdict)
 del this_dict["model"]
 print(this_dict)
 
+super_market = {
+    "grocery" : {"masala" : "cumin", "oil" : "mustred"},
+    "health" : {"dryfrutes" : "almonds", "milk":"amul"}
+}
+
+print(super_market)
+print(super_market["grocery"])
+print(super_market["grocery"]["oil"])
+
+squared_num = {x:x**2 for x in range (7)}
+print(squared_num)
+
+squared_num.clear()
+print(squared_num)
